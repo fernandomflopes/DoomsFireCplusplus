@@ -53,7 +53,7 @@ class DoomsFireRender : public olc::PixelGameEngine
 public:
 	DoomsFireRender()
 	{
-		sAppName = "Example";
+		sAppName = "Doom";
 	}
 
 public:
