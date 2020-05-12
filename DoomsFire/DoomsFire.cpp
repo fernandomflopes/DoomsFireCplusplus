@@ -75,7 +75,6 @@ public:
 			}
 		}
 		doomfire::calculate();
-
 		return true;
 	}
 };
@@ -83,10 +82,9 @@ public:
 
 int main()
 {
-
 	DoomsFireRender doomsFire;
 	if (doomsFire.Construct(doomfire::width, doomfire::height, 4, 4))
 		doomsFire.Start();
 
-    return 0;
+    	return 0;
 }
