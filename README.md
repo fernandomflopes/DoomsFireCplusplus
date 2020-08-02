@@ -4,6 +4,6 @@
 
 
 
-Thanks for https://github.com/filipedeschamps for algorithm
+Thanks https://github.com/filipedeschamps by algorithm
 
-Thanks for https://github.com/OneLoneCoder for lib olcPixelGameEngine
+Thanks https://github.com/OneLoneCoder by lib olcPixelGameEngine
